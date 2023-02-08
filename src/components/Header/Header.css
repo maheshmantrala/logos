@@ -1,0 +1,98 @@
+.app__center{
+  text-transform: uppercase;
+  padding: 1px 1px ;
+  text-align: center;
+  color:white;
+  font-style: italic;
+   font-size: medium;
+}
+.app-con{
+  background-color: gray;
+}
+
+ 
+ .img1 img{
+  width: 200px;
+  cursor: pointer;
+  border: 2px solid  black;
+  margin: 20px 20px 2px 20px;
+  border-radius: 20px;
+ }
+ .img2 img{
+  width: 200px;
+  cursor: pointer;
+  border: 2px solid black;
+  margin: 20px 20px 2px 20px;
+  border-radius: 20px;
+ }
+ .img3 img{
+  width: 200px;
+  cursor: pointer;
+  border: 2px solid black;
+  margin: 20px 20px 2px 20px;
+  border-radius: 20px;
+ }
+ .img4 img{
+  width: 200px;
+  cursor: pointer;
+  border: 2px solid black;
+  margin: 20px 20px 2px 20px;
+  border-radius: 20px;
+ }
+ .img5 img{
+  width: 200px;
+  cursor: pointer;
+  border: 2px solid black;
+  margin: 20px 20px 2px 20px;
+  border-radius: 20px;
+ }
+ .img6 img{
+  width: 200px;
+  cursor: pointer;
+  border: 2px solid black;
+  margin: 20px 20px 2px 20px;
+  border-radius: 20px;
+ }
+ .img7 img{
+  width: 200px;
+  cursor: pointer;
+  border: 2px solid black;
+  margin: 20px 20px 2px 20px;
+  border-radius: 20px;
+ }
+ .img8 img{
+  width: 200px;
+  cursor: pointer;
+  border: 2px solid black;
+  margin: 20px 20px 2px 20px;
+  border-radius: 20px;
+
+ } 
+ .img9 img{
+  width: 200px;
+  cursor: pointer;
+  border: 2px solid black;
+  margin: 20px 20px 2px 20px;
+  border-radius: 20px;
+ } 
+ .img10 img{
+  width: 200px;
+  cursor: pointer;
+  border: 2px solid black;
+  margin: 20px 20px 2px 20px;
+  border-radius: 20px;
+ } 
+ .img11 img{
+  width: 200px;
+  cursor: pointer;
+  border: 2px solid black;
+  margin: 20px 20px 2px 20px;
+  border-radius: 20px;
+ } 
+ .img12 img{
+  width: 200px;
+  cursor: pointer;
+  border: 2px solid black;
+  margin: 20px 20px 2px 20px;
+  border-radius: 20px;
+ }
